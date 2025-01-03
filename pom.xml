@@ -41,7 +41,7 @@
         <swagger-models.version>1.6.14</swagger-models.version>
         <swagger-annotations.version>1.6.14</swagger-annotations.version>
         <mybatis-generator.version>1.4.1</mybatis-generator.version>
-        <mybatis.version>3.5.10</mybatis.version>
+        <mybatis.version>3.5.19</mybatis.version>
         <mysql-connector.version>8.0.29</mysql-connector.version>
         <spring-data-commons.version>2.7.5</spring-data-commons.version>
         <jjwt.version>0.9.1</jjwt.version>
